@@ -35,9 +35,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 ## ![estudar](https://github.com/user-attachments/assets/669a01dd-8cdb-4fa9-aeee-5526f14ed045) Contributions
 Contributions are welcome! Feel free to open a pull request with improvements or report issues in the issues section.
 ### Links Úteis e Referências: 
-- www.dio.me
-- www.bootstrap.com
-- www.flaticon.com
-- www.youtube.com
-- https://www.youtube.com/@HandmaidsBrasil
+- [Dio.me] (https://www.dio.me/)
+- [site Oficial do Boostratp] (https://getbootstrap.com/)
+- [Flaticon] (www.flaticon.com)
+- [Canal de Refêrencia: Youtube] (www.youtube.com)
+- [Canal de Referência do Youtube: The Handmaids Brasil] (https://www.youtube.com/@HandmaidsBrasil)
 
