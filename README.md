@@ -1,4 +1,4 @@
-# Projeto Desafio clonagem de uma Página do Youtube / Challenge Project: Cloning a YouTube Page
+# Projeto Desafio Clonagem de uma Página do Youtube / Challenge Project: Cloning a YouTube Page
 
 ##  ![marketing](https://github.com/user-attachments/assets/427265f3-e3fc-4b0b-a74c-af0479de6693) Objetivo
 O objetivo deste projeto é clonar uma página do YouTube utilizando HTML e CSS, aplicando os conceitos aprendidos na Trilha CSS do Bootcamp Santander 2025 (Dio.me). O foco principal está em técnicas como Flexbox, responsividade e posicionamento de elementos, visando reproduzir uma interface moderna e funcional.
