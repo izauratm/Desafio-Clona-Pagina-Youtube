@@ -38,6 +38,6 @@ Contributions are welcome! Feel free to open a pull request with improvements or
 - [Dio.me](https://www.dio.me/)
 - [site Oficial do Boostratp](https://getbootstrap.com/)
 - [Flaticon](www.flaticon.com)
-- [Canal de Refêrencia: Youtube](www.youtube.com)
+- [Youtube](https://www.youtube.com/)
 - [Canal de Referência do Youtube: The Handmaids Brasil](https://www.youtube.com/@HandmaidsBrasil)
 
