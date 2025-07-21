@@ -37,7 +37,7 @@ Contributions are welcome! Feel free to open a pull request with improvements or
 ### Links Úteis e Referências: 
 - [Dio.me](https://www.dio.me/)
 - [Site Oficial do Boostratp](https://getbootstrap.com/)
-- [Flaticon](www.flaticon.com)
+- [Flaticon](https://www.flaticon.com/br/)
 - [Youtube](https://www.youtube.com/)
 - [Canal de Referência do Youtube: The Handmaid's Tale Brasil](https://www.youtube.com/@HandmaidsBrasil)
 
