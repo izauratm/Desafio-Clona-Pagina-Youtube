@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Clone Página YouTube</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+</head>
+
+<body>
+
+  <!-- Área cabeçalho fixo -->
+  <header>
+    <div class="logo">
+      <img src="imagens/menu.png" alt="Menu não ativo" title="Menu">
+      <img src="imagens/youtube1.png" alt="Logo do Youtube" title="Página Inicial do YouTube">
+    </div>
+    <!--Área campo de pesquisa-->
+    <div class="search-wrapper">
+      <i class="bi bi-keyboard icon-left"></i>
+      <input type="text" placeholder="Pesquisar no YouTube..." class="search-input" aria-label="área pesquisar no youtube">
+      <button class="icon-button" aria-label="botão lupa">
+        <i class="bi bi-search" title="Pesquisar"></i>
+      </button>
+    </div>
+
+    <!--Área icones à direita da pagina-->
+    <div class="user-icons">
+      <button class="icon-button" aria-label="botão pesquisar por voz">
+        <i class="bi bi-mic-fill" title="Pesquisa por voz"></i>
+      </button>
+      <button class="icon-button" aria-label="botão vídeo">
+        <i class="bi bi-camera-video" title="Vídeo"></i>
+      </button>
+      <button class="icon-button" aria-label="botão notificação">
+        <i class="bi bi-bell" title="Notificação"></i>
+      </button>
+      <img src="imagens/eu.jpeg" alt="Usuário" title="Perfil do Usuário">
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main>
+    <article>
+      <section>
+        <!-- área video youtube -->
+       <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/DybA1v4p-0U?si=8PJOITAUSd7XAycr"
+        title="Trailer da 5ª temporada de The Handmaid's Tale" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+
+        <h1>The Handmaid's Tale | Teaser legendado temporada final</h1>
+        <!--área das opiniões-->
+        <div class="actions">
+          <img src="imagens/imagem1.png" alt="imagem de uma aia" title="The Handmaid's Tale Brasil">
+          <img src="imagens/Subscribe Button.png" alt="retangulo vermelho com titulo inscrever-se " width="140px" height="40px" title="Inscrever-se">
+          <img src="imagens/Like.png" alt="Imagem mão polegar direito para cima" width="68px" height="24px" title="Marcar Como Gostei">
+          <img src="imagens/Deslike.png" alt="Imagem mão polegar direito para baixo" width="110px" height="24px"
+            title="Marcar como Não Gostei">
+          <img src="imagens/compatilhar.png" alt="Imagem de compartilhamento" title="Compartilhar" width="115px" height="26px">
+          <img src="imagens/Download.png" alt="Imagem de download" title="Download" width="98px" height="24px">
+        </div>
+        <!--área das opiniões-->
+        <div class="video-info">
+          <span class="views"><strong>35.746 visualizações 24 de ago. de 2022</strong> </span>
+          <span class="hashtags">#TheHandmaidsTale #HandmaidsTale</span>
+          <div class="description"> Alguns pecados não podem ser lavados. 🩸<br>
+            A quinta temporada de The Handmaid's Tale estreia em 14 de setembro no Hulu e dia 18 no UOL Play.
+            <button class="show-more">...mais</button>
+          </div>
+        </div>
+        <!--área dos comentários-->
+        <div class="comments-header">
+          <span class="comments-count"><strong>0 comentários</strong></span>
+          <div class="order-by-wrapper">
+            <button class="order-by" tabindex="0">
+              <i class="bi bi-filter" title="Classificar Comentários"></i> Ordenar por
+            </button>
+            <div class="order-dropdown">
+              <div class="order-option">Principais comentários</div>
+              <div class="order-option">Mais recente primeiro</div>
+            </div>
+          </div>
+        </div>
+        <div class="add-comment">
+          <img src="imagens/comentario.png" alt="Avatar do usuário" class="avatar">
+          <input type="text" placeholder="Adicione um comentário..." aria-label="espaço para comentários" class="comment-input">
+        </div>
+      </section>
+    </article>
+
+    <!-- Área dos videos laterais -->
+    <aside class="video-suggestions">
+    
+      <figure>
+        <a href="https://youtu.be/djZZb7UrHCQ?si=Qq5_v7P_jvvTpslh" target="_blank"><img src="imagens/fig1.png" alt="vídeo 1"
+            title="Episódio Especial: Resumo oficial"></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/NnvntKu1PFY?si=3RcPAIKa7NTweXXm" target="_blank"><img src="imagens/fig2.png" alt="vídeo 2"
+            title="Episódio Especial: Perdão, tia Lydia"></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/TAxGsQ_qyJQ?si=j56OraopUFhB66ny" target="_blank"><img src="imagens/fig3.png" alt="vídeo 3"
+            title="Episódio Especial: Elisabeth Moss revela.."></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/Q392WMfKjjk?si=GebS7qHZgzK_fBW_" target="_blank"><img src="imagens/fig4.png" alt="vídeo 4"
+            title="Episódio Especial: Cena do trem"></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/BR4T9d66Toc?si=4VP--nLMWGjxaeAw" target="_blank"><img src="imagens/fig5.png" alt="vídeo 5"
+            title="Episódio Especial: So move the point"></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/WofJOaV5J8o?si=rBVSqavUdcaeBvnU" target="_blank"><img src="imagens/fig6.png" alt="vídeo 6"
+            title="Episódio Especial: Trailer legendado temporada final"></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/HTSYR8ZMNQI?si=iKxiOM7Z4PnSv9VN" target="_blank"><img src="imagens/fig7.png" alt="vídeo 7"
+            title="Episódio Especial: Janine being the purest soul"></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/dpgdPKHLCDM?si=ajG_j2YGo-8EcSfb" target="_blank"><img src="imagens/fig8.png" alt="vídeo 8"
+            title="Episódio Especial: Serena convoca June para ser .."></a>
+      </figure>
+      <figure>
+        <a href="https://youtu.be/qPNcmmINUQI?si=uEv4rw3v1xpt4AbT" target="_blank"><img src="imagens/fig9.png" alt="vídeo 9"
+            title="Episódio Especial: June é dispensada do trabalho"></a>
+      </figure>
+    
+    </aside>
+    </main>
+    </body>    
+    </html>
