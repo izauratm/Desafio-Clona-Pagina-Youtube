@@ -36,7 +36,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 Contributions are welcome! Feel free to open a pull request with improvements or report issues in the issues section.
 ### Links Úteis e Referências: 
 - [Dio.me](https://www.dio.me/)
-- [site Oficial do Boostratp](https://getbootstrap.com/)
+- [Site Oficial do Boostratp](https://getbootstrap.com/)
 - [Flaticon](www.flaticon.com)
 - [Youtube](https://www.youtube.com/)
 - [Canal de Referência do Youtube: The Handmaids Brasil](https://www.youtube.com/@HandmaidsBrasil)
