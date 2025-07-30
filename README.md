@@ -21,11 +21,10 @@ The goal of this project is to clone a YouTube page using HTML and CSS, applying
 * Element Positioning and Display
 * Flexbox
 
-
-## ![tecnologia](https://github.com/user-attachments/assets/b8ed55c1-a49c-4b8f-aca5-90000217d1e6) Tecnologias Utilizadas / Technologies Used
-- Visual Studio Code
-- HTML5
-- CSS3
+## ![tecnologia](https://github.com/user-attachments/assets/b8ed55c1-a49c-4b8f-aca5-90000217d1e6) Tecnologias e Ferramentas/ Technologies and Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 ## ![estude](https://github.com/user-attachments/assets/f2f58f4e-c422-49af-8d03-67dfa175a54a) Desenvolvedora / Developer
 * Izaura TM - responsável pelo desenvolvimento, estrutura e estilização do projeto.  /  Izaura TM - person responsible development, structure and styling of the project.
